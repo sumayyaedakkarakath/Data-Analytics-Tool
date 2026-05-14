@@ -4,7 +4,7 @@ This Data Analytics tool is designed to help FMCG businesses dervie actionable i
 
 ## Workflow
 The workflow of this tool guides users through a seamless process of login to in-depth analysis.
-1. Login with provided credentials\             
+1. Login with provided credentials              
    Use the username 'admin' and password 'password' to access the system.
 2. Upload customer and sales files\
    Upload either a combined customer-sales file or seperate customer and sales files using the provided interface.
@@ -14,10 +14,10 @@ The workflow of this tool guides users through a seamless process of login to in
    Navigate through tabs to see distributor-level summaries, seller insights, and seasonal trends.
 
 ## Installation
-1. To install the tool, ensure you have python installed.\
-2. Clone this repository to your local machine.\
-3. Navigate to the project directory and run 'pip install -r requirements.txt' to install dependencies.\
-4. Once installed, you can run the app by executing 'python run.py'.\
+1. To install the tool, ensure you have python installed    
+2. Clone this repository to your local machine    
+3. Navigate to the project directory and run 'pip install -r requirements.txt' to install dependencies  
+4. Once installed, you can run the app by executing 'python run.py'  
 
 ## Special Features
 key features include:
