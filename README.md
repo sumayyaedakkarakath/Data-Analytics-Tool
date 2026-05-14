@@ -31,3 +31,5 @@ key features include:
    Each graph is accomponied by a summary message highlighting key contributors
 5. **Trend drill-down:**
    Users can explore monthly trends and drill down to daily patterns for more granular insights.
+
+The screenshots included in the screenshots folder represent key stages of the tool: home preview page, and seller summary page which provides detailed insights on seller performance and contributions.
